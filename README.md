@@ -1,1 +1,1 @@
-Calculadora realizada con React.
+Calculadora funcional realizada con React.
